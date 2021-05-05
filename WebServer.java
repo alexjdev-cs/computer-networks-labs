@@ -1,16 +1,13 @@
 
 /*************************************************************************
 * Program:
-*    Lab Webserver, Computer Networks
-*    Brother Jones, CSE354
+*    Lab Webserver, Computer Networks CSE354
 * Author:
 *    Alex Johnson
 * Summary:
 *    This program will implement a very basic web server using TCP connections
 *    over Java.net sockets.
 ************************************************************************** */
-/*** NOTE: The header needs to be changed for second submission (take 2) ***/
-/*** NOTE: The header needs to be changed for second submission (take 2) ***/
 
 import java.io.*;
 import java.net.*;
